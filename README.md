@@ -1,4 +1,4 @@
-Script Bash Preventivo
+# Script Bash Preventivo
 
 Este é um script Bash desenvolvido para realizar testes preventivos em computadores, com foco em verificar a saúde do hardware e do sistema operacional. Ele pode ser útil para técnicos de informática, administradores de sistemas ou qualquer pessoa que precise verificar o estado de um computador de forma rápida e automatizada.
 Funcionalidades
@@ -19,19 +19,19 @@ Funcionalidades
     Status do firewall
     Análise dos logs do sistema em busca de erros recentes
 
-Requisitos
+# Requisitos
 
     Linux (o script foi testado no Ubuntu)
     Permissões de superusuário para algumas operações (como acessar informações de hardware e realizar testes de stress)
 
-Uso
+# Uso
 
     Faça o download do script.
     Torne-o executável com o comando chmod +x script.sh.
     Execute-o com permissões de superusuário: sudo ./script.sh.
     Siga as instruções apresentadas no menu para realizar os testes preventivos.
 
-Limitações
+# Limitações
 
 Este script não é uma solução completa para diagnóstico de problemas em computadores e serve apenas como uma ferramenta de auxílio. É importante realizar uma análise mais detalhada em caso de problemas detectados.
 Contribuições
@@ -39,6 +39,5 @@ Contribuições
 Contribuições são bem-vindas! Se você encontrar bugs, tiver sugestões de melhorias ou quiser adicionar novos recursos, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 Autor
 
-Este script foi desenvolvido por Seu Nome.
+Este script foi desenvolvido por Daniel Silva T.I da loja 300.
 
-Este é apenas um exemplo básico. Sinta-se à vontade para personalizá-lo de acordo com as necessidades do seu projeto. Adicione seções extras, como "Licença", "Como Contribuir" ou "Suporte", conforme apropriado.
