@@ -1,6 +1,6 @@
 # Script Bash Preventivo
 
-Este é um script Bash desenvolvido para realizar testes preventivos em computadores, com foco em verificar a saúde do hardware e do sistema operacional. Ele pode ser útil para técnicos de informática, administradores de sistemas ou qualquer pessoa que precise verificar o estado de um computador de forma rápida e automatizada.
+Este é um script Bash desenvolvido para realizar testes preventivos em computadores utilizando linux, com foco em verificar a saúde do hardware e do sistema operacional. Ele pode ser útil para técnicos de informática, administradores de sistemas ou qualquer pessoa que precise verificar o estado de um computador de forma rápida e automatizada.
 Funcionalidades
 
     Teste de saúde do SSD
