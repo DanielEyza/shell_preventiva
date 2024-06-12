@@ -1,9 +1,9 @@
 # Preventive Maintenance Script
-#Descrição
+# Descrição
 
 Este script de manutenção preventiva foi desenvolvido para realizar uma série de testes em PDVs (Pontos de Venda) e gerar um relatório detalhado sobre o estado de saúde do sistema. O script é capaz de verificar o SSD, memória, placa-mãe, uso de disco, temperatura da CPU, conectividade de rede, entre outros. Além disso, ele gera um relatório em português utilizando o LibreOffice.
 
-#Funcionalidades
+# Funcionalidades
 
     Exibição de Banner: Mostra o nome do sistema em grande formato.
     Teste de SSD: Verifica a saúde do SSD.
